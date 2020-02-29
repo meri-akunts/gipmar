@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2939995-38b0-4ac8-9982-10db6194dfe6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1YTIblTJV8mV1IOqF4vNnDcAjoI" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2939995-38b0-4ac8-9982-10db6194dfe6" name="Default Changelist" comment="" />
+      <created>1582960230136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582960230136</updated>
+      <workItem from="1582960231743" duration="22562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="621" y="358" width="717" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582985081938">
+      <screen x="49" y="28" width="1871" height="1053" />
+    </state>
+    <state x="621" y="358" width="717" height="390" key="#com.intellij.fileTypes.FileTypeChooser/49.28.1871.1053/1920.0.1366.768@49.28.1871.1053" timestamp="1582985081938" />
+    <state x="553" y="230" width="863" height="646" key="find.popup" timestamp="1582966107919">
+      <screen x="49" y="28" width="1871" height="1053" />
+    </state>
+    <state x="553" y="230" width="863" height="646" key="find.popup/49.28.1871.1053/1920.0.1366.768@49.28.1871.1053" timestamp="1582966107919" />
+  </component>
+</project>
